@@ -60,7 +60,7 @@ In coppia, chiedi agli studenti di fare uno schizzo del loro personaggio di fict
 
 Dopo qualche minuto, fai scambiare loro i disegni. Suggerisci agli studenti di aggiungere qualcosa al disegno del loro partner. Spiega che questa è un’azione di remix!
 
-Hackera le news usando X-Ray Goggles (25 min.)
+### Hackera le news usando X-Ray Goggles (25 min.)
 
 Nella stessa coppia, è sufficiente che sia disponibile come strumentazione, che gli studenti aprano un browser moderno. Ancora, dimostrate su un computer e in seguito forma dei gruppi piccoli così che gli studenti possano provare di loro pugno.
 
@@ -102,7 +102,7 @@ Prendilo come un passo successivo
 
 Lascia che gli allievi condividano i loro hack con le stazioni news che hanno usao per effettuare il remix. Più stazioni notiziarie sono su twitter, così prova a tweettare un link a loro e pensa alle loro reazioni.
 
-Rifletti e Rivedi (10 min.)
+### Rifletti e Rivedi (10 min.)
 
 Dimostra/Fai una presentazione di qualche pagina remixata e chiedi agli studenti di condividere ciò che hanno cambiato. Considera suggerimenti come:
 Quale versione del sito web ti piace di più?
