@@ -21,15 +21,12 @@
   font-size: 10em;
   opacity: 0;
   transition: all 0.2s linear; }
-
 .overlay-fade-in img {
   transition: all 0.2s linear; }
-
 .overlay-fade-in .image-overlay-content {
   opacity: 0;
   background-color: rgba(0, 0, 0, 0.4);
   transition: all 0.4s ease-in-out; }
-
 .overlay-fade-in h2 {
   color: #f2f2f2;
   font-size: 0.8em;
@@ -38,7 +35,6 @@
   transition: all 0.2s ease-in-out;
   position: relative;
   background: rgba(0, 0, 0, 0.7); }
-
 .overlay-fade-in .button {
   display: inline-block;
   text-decoration: none;
@@ -51,10 +47,8 @@
   border: 1px solid #999;
   opacity: 0;
   transition: all 0.2s ease-in-out; }
-
   .overlay-fade-in .button:hover {
     box-shadow: 0 0 5px #000; }
-
 .overlay-fade-in:hover img {
   transform: scale(1.2); }
 .overlay-fade-in:hover .image-overlay-content {
@@ -66,7 +60,6 @@
 .overlay-fade-in:hover .button {
   transition-delay: 0.2s; }
 
-}
 .hero {
   background: url("http://mozillacagliariclub.edovio.com/image/wall.jpg") no-repeat center center;
   background-size: cover;
@@ -88,16 +81,10 @@
     top: 50%;
     transform: translateY(-50%); }
 
-  .hero .pagina {
-    padding: 3rem;
-    position: relative;
-    top: 10%;
-    transform: translateY(-20%); }
-
   .hero h1 {
     color: #fff;
     font-size: 1.5rem;
-    line-height: 1.5rem;
+    line-height: 1.5em;
     letter-spacing: -0.025em;
     font-weight: 300;
     text-align: center; }
@@ -198,130 +185,4 @@ i {
 .icon-button:hover .fi-social-twitter, .icon-button:hover .fi-social-facebook, .icon-button:hover .fi-social-google-plus {
   color: white;
   font-size: 2.6rem;
-  line-height: 3.9rem; }
-
-
-.footer {
-  background-color: #0F2F50;
-  text-align: center;
-  font-size: 1.2rem;
-  padding: 0.4rem; 
-  bottom: 0;}
-
-  .footer .inline-list a {
-    display: inline-block;
-    width: 2rem;
-    height: 2rem;
-    background-color: #33383b;
-    border-radius: 2px;
-    font-size: 1.5rem;
-    color: #fff;
-    text-align: center;
-    line-height: 35px;
-    margin: 0 3px 0 0; }
-
-  .footer .contact {
-    list-style-type: none;
-    margin: 0;
-    text-align: left;
-    color: #fff; }
-
-    .footer .contact li {
-      margin-bottom: 2rem; }
-
-      .footer .contact li p {
-        padding-left: 5rem; }
-
-    .footer .contact i {
-      position: absolute;
-      background-color: #33383b;
-      color: #fff;
-      font-size: 2rem;
-      border-radius: 50%;
-      line-height: 1;
-      margin: 0 0 0 -4rem;
-      vertical-align: middle;
-      padding: .25em .45em; }
-
-  .footer .copywrite {
-    color: #8f9296;
-    font-size: 0.875rem;
-    margin: 0 0 1rem 0; }
-
-  .footer .about {
-    color: #92999f;
-    font-size: 0.875rem;
-    margin: 0 0 1rem 0; }
-
-  .footer .footer-links a {
-    list-style: none;
-    font-weight: normal;
-    color: #fff;
-    padding: 3rem 0 2rem;
-    margin: 0;
-    font-size: 0.875rem; }
-
-    .footer .footer-links a::after {
-      content: "•";
-      padding: 0 0.2rem 0 0.4rem; }
-
-    .footer .footer-links a:last-child::after {
-      content: "";
-      padding: 0 0.4rem 0 0.8rem; }
-
-  @media only screen and (min-width: 40.063em) {
-    .footer p {
-      text-align: left; }
-
-    .footer .social {
-      text-align: left;
-      margin: 0; }
-
-    .footer .contact {
-      text-align: left; }
-      .footer .contact > i {
-        margin-right: 1rem; } }
-
-.header {
-  text-align: left;
-  background: #AF212D;
-  /*background: linear-gradient(to bottom right, #002f4b, #dc4225);*/
-  /*background-size: cover;*/
-  position: relative;
-  overflow: visible;
-  padding-top: 0.3rem;
-  padding-bottom: 0.5rem; }
-  .header .headline {
-    color: #ffe; 
-	bottom: 30; }
-.header-social{
-	text-align: right;
-}
-.header-subnav {
-  float: none;
-  position: absolute;
-  text-align: center;
-  margin: 0 auto;
-  bottom: 0;
-  width: 100%; }
-  .header-subnav li {
-    float: none;
-    display: inline-block; }
-    .header-subnav li a {
-      padding: 0.9rem 1rem;
-      font-size: 0.75rem;
-      color: #ffe;
-      text-transform: uppercase;
-      display: block;
-      font-weight: bold;
-      letter-spacing: 1px;
-      transition: all 0.35s ease-in-out; }
-      .header-subnav li a.is-active {
-        background: rgba(250, 250, 250, 0.15); }
-      .header-subnav li a:hover {
-        background: rgba(250, 250, 250, 0.15);
-        transition: all 0.35s ease-in-out; }
-
-.contenitore{
-text-align: center;}
-
+line-height: 3.9rem; }
