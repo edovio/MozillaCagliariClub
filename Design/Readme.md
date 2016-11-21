@@ -7,3 +7,5 @@ Link for the OpenSans Font: [Mozilla Guide Style: OpenSans](https://www.mozilla.
 
 Link Guide Style: [Mozilla Guide Style](https://www.mozilla.org/en-US/styleguide/)
 
+### All materials are under license defined [HERE](https://github.com/edovio/MozillaCagliariClub/blob/master/Design/LICENSE.md)
+
