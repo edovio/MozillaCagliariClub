@@ -7,3 +7,5 @@ Mozilla Clubs are a global network of community members that share Mozilla’s m
 
 The Mozilla Cagliari Club is part of the network of Mozilla Clubs inspired by the Mozilla Learning Network.
 
+All Materials are under License defined in any section of this Repository
+
