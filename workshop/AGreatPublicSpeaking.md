@@ -37,8 +37,7 @@ Lead a discussion on what people observed.  Where possible, navigate to a frame 
 * How much is important the idea for the speaker?
 * Why is important connect with the attendees? 
 
-
- ## Activity - Good & Bad example in a presentation (15 Minutes) ##
+## Activity - Good & Bad example in a presentation (15 Minutes) ##
 ![GOOD & BAD](http://maxpixel.freegreatpicture.com/static/photo/1x/Bad-Opposite-Decision-Choose-Good-Choice-Positive-1123013.jpg)
 **Watch this video: [Good and Bad Things](https://www.youtube.com/watch?v=S5c1susCPAE&t=50s)**
 
@@ -48,14 +47,14 @@ Lead a discussion on what people observed. Explore all things shown by the video
 ![What](https://upload.wikimedia.org/wikipedia/commons/3/35/BSPC_19_i_Nyborg_Danmark_2009_(4).jpg)
 Ask at your group to present the same last topic trying to use all the tips and things learned in this workshop. A turn, every people in the group (5 minutes maximum) must describe the Idea, why is important and why will be important for the others, with all the new things see in the videos and discussed.
 
-[SLIDE DECK](https://docs.google.com/presentation/d/1TrmeX9YhpumE-2YS41_vcpRva_brVe9Xa96DUTnWf7U/edit?usp=sharing) for the workshop
+**[SLIDE DECK](https://docs.google.com/presentation/d/1TrmeX9YhpumE-2YS41_vcpRva_brVe9Xa96DUTnWf7U/edit?usp=sharing)** for the workshop
 
 
-Some other resources Interesting:
+Some other interesting resources:
 
-[Mozilla Science: Facilitator Tips & Tricks](https://mozillascience.github.io/open-science-leadership-workshop/facilitator_tips_&_tricks.html)
+**[Mozilla Science: Facilitator Tips & Tricks](https://mozillascience.github.io/open-science-leadership-workshop/facilitator_tips_&_tricks.html)**
 
-[Amy Cuddy Talk: Your body language shapes who you are](https://www.youtube.com/watch?v=wp4ho9raVjA)
+**[Amy Cuddy Talk: Your body language shapes who you are](https://www.youtube.com/watch?v=wp4ho9raVjA)**
 
-[Presentation Skills: Tips & Tricks](https://www.youtube.com/watch?v=Ks-_Mh1QhMc)
+**[Presentation Skills: Tips & Tricks](https://www.youtube.com/watch?v=Ks-_Mh1QhMc)**
 
