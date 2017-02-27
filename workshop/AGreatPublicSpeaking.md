@@ -26,7 +26,7 @@ Ask at your group to think individually about one Idea, argument, opinion or oth
 
 ## Activity - Secret to great Public Speaking (25 Minutes) ##
 
-** Watch this Ted Talk: https://www.youtube.com/watch?v=-FOCpMAww28 **
+**Watch this Ted Talk: https://www.youtube.com/watch?v=-FOCpMAww28**
 Discussion:
 Lead a discussion on what people observed.  Where possible, navigate to a frame on the video that supports, or reflects the question being asked.
 
@@ -39,7 +39,7 @@ Lead a discussion on what people observed.  Where possible, navigate to a frame 
  ## Activity - Good & Bad example in a presentation (15 Minutes) ##
 
 
-** Watch this video: https://www.youtube.com/watch?v=S5c1susCPAE&t=50s **
+**Watch this video: https://www.youtube.com/watch?v=S5c1susCPAE&t=50s**
 Lead a discussion on what people observed. Explore all things shown by the video and define why every things are a good or a bad thing. For summarize the facilitator could put all good and bad things in sticky-notes.
 
 ## Activity - What learned in practise (5 minutes per each Attendee) ##
@@ -52,6 +52,8 @@ Ask at your group to present the same last topic trying to use all the tips and 
 Some other resources Interesting:
 
 https://mozillascience.github.io/open-science-leadership-workshop/facilitator_tips_&_tricks.html
+
 https://www.youtube.com/watch?v=wp4ho9raVjA
+
 https://www.youtube.com/watch?v=Ks-_Mh1QhMc
 
