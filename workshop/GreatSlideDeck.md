@@ -29,11 +29,11 @@ In this phase the facilitator could help the attendees to use only the tools.
 
 ## Watch - Design Tips (20 minutes) ##
 
-**Watch these video: 
+** Watch these video: **
 
 * [Layout & Composition](https://www.youtube.com/watch?v=a5KYlHNKQB8)
 * [Typography](https://www.youtube.com/watch?v=sByzHoiYFX0)
-* [Color](https://www.youtube.com/watch?v=_2LLXnUdUIc)**
+* [Color](https://www.youtube.com/watch?v=_2LLXnUdUIc)
 
 ## Activity - What’s good & what’s wrong (15 minutes) ##
 
@@ -54,6 +54,7 @@ Lead a discussion on what people observed.  Where possible, navigate to a frame 
 ## Activity - Last Tips for Slide Deck (20 Minutes) ##
 
 **Read this TED Doc: [Tips for better slide decks](http://blog.ted.com/10-tips-for-better-slide-decks/)**
+
 Lead the read of the document and a discussion about the 10 tips. Explore all the 10 tips in the Doc and summarize with the attendees what learned.
 
 ## Activity - What learned in practise ( 20 minutes) ##
