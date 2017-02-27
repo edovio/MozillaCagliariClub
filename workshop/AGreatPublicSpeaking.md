@@ -21,7 +21,7 @@ Get people thinking about what is important during a speaking, what is good and 
 **Ask at the group to describe bad things in Public Speaking.** Invite them to make a list of these things and put all information in a sticky-notes in another part of the wall or poster-board.
 
 ## Activity - Stage it’s your (5 minutes per each attendee) ##
-
+! [Stage] (https://upload.wikimedia.org/wikipedia/en/e/ee/Bella_Rose_Arts_Centre_Stage.JPG)
 Ask at your group to think individually about one Idea, argument, opinion or other topic that all the individuals are in real interested or think is in real important. A turn, every people in the group (5 minutes maximum) must describe the Idea, why is important and why will be important for the others.
 
 ## Activity - Secret to great Public Speaking (25 Minutes) ##
