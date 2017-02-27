@@ -26,7 +26,7 @@ Ask at your group to think individually about one Idea, argument, opinion or oth
 
 ## Activity - Secret to great Public Speaking (25 Minutes) ##
 
-**Watch this Ted Talk: https://www.youtube.com/watch?v=-FOCpMAww28 **
+** Watch this Ted Talk: https://www.youtube.com/watch?v=-FOCpMAww28 **
 Discussion:
 Lead a discussion on what people observed.  Where possible, navigate to a frame on the video that supports, or reflects the question being asked.
 
@@ -46,10 +46,11 @@ Lead a discussion on what people observed. Explore all things shown by the video
 
 Ask at your group to present the same last topic trying to use all the tips and things learned in this workshop. A turn, every people in the group (5 minutes maximum) must describe the Idea, why is important and why will be important for the others, with all the new things see in the videos and discussed.
 
-[SLIDE DECK](https://docs.google.com/presentation/d/1TrmeX9YhpumE-2YS41_vcpRva_brVe9Xa96DUTnWf7U/edit?usp=sharing)
+[SLIDE DECK](https://docs.google.com/presentation/d/1TrmeX9YhpumE-2YS41_vcpRva_brVe9Xa96DUTnWf7U/edit?usp=sharing) for the workshop
 
 
 Some other resources Interesting:
+
 https://mozillascience.github.io/open-science-leadership-workshop/facilitator_tips_&_tricks.html
 https://www.youtube.com/watch?v=wp4ho9raVjA
 https://www.youtube.com/watch?v=Ks-_Mh1QhMc
