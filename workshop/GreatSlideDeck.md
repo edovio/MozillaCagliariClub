@@ -10,7 +10,7 @@ Participants in this module will know how make slide deck, how can be helpful in
 * Have actively practiced with a example slide deck made by their self.
 
 ## Who is the audience? ##
-Age: 18+, isn’t necessary any specific knowledge. 
+Age: **18+**, isn’t necessary any specific knowledge. 
 
 ## Materials needed ##
 Sticky-notes, a poster board or a blank wall, one Laptop, a Projector and at least a one facilitator.
@@ -18,8 +18,8 @@ Sticky-notes, a poster board or a blank wall, one Laptop, a Projector and at lea
 ## Workshop - WarmUp (10 Minutes) ##
 
 Get people thinking about why is important have slide deck during a talk, a presentation, a pitch or what else. What is good and what is wrong making slide deck. 
-*Ask at the group to describe good things making Slide Deck.* Invite them to make a list of these things and put all information in a sticky-notes in a wall or poster-board.
-*Ask at the group to describe bad things making Slide Deck.* Invite them to make a list of these things and put all information in a sticky-notes in another part of the wall or poster-board.
+**Ask at the group to describe good things making Slide Deck.** Invite them to make a list of these things and put all information in a sticky-notes in a wall or poster-board.
+**Ask at the group to describe bad things making Slide Deck.** Invite them to make a list of these things and put all information in a sticky-notes in another part of the wall or poster-board.
 
 ## Activity - Create your first Slide Deck (20 minutes) ##
 
@@ -29,7 +29,7 @@ In this phase the facilitator could help the attendees to use only the tools.
 
 ## Watch - Design Tips (20 minutes) ##
 
-** Watch these video: **
+**Watch these video: **
 
 * [Layout & Composition](https://www.youtube.com/watch?v=a5KYlHNKQB8)
 * [Typography](https://www.youtube.com/watch?v=sByzHoiYFX0)
