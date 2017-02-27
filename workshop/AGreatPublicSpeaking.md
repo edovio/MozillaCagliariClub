@@ -21,11 +21,11 @@ Get people thinking about what is important during a speaking, what is good and 
 **Ask at the group to describe bad things in Public Speaking.** Invite them to make a list of these things and put all information in a sticky-notes in another part of the wall or poster-board.
 
 ## Activity - Stage it’s your (5 minutes per each attendee) ##
-! [Stage] (https://upload.wikimedia.org/wikipedia/en/e/ee/Bella_Rose_Arts_Centre_Stage.JPG)
+![Stage] (https://upload.wikimedia.org/wikipedia/en/e/ee/Bella_Rose_Arts_Centre_Stage.JPG)
 Ask at your group to think individually about one Idea, argument, opinion or other topic that all the individuals are in real interested or think is in real important. A turn, every people in the group (5 minutes maximum) must describe the Idea, why is important and why will be important for the others.
 
 ## Activity - Secret to great Public Speaking (25 Minutes) ##
-
+![Secret](https://c1.staticflickr.com/2/1118/555287661_0951fd05dc_b.jpg)
 **Watch this Ted Talk: https://www.youtube.com/watch?v=-FOCpMAww28**
 
 Discussion:
@@ -39,14 +39,13 @@ Lead a discussion on what people observed.  Where possible, navigate to a frame 
 
 
  ## Activity - Good & Bad example in a presentation (15 Minutes) ##
-
-
+![GOOD & BAD](http://maxpixel.freegreatpicture.com/static/photo/1x/Bad-Opposite-Decision-Choose-Good-Choice-Positive-1123013.jpg)
 **Watch this video: https://www.youtube.com/watch?v=S5c1susCPAE&t=50s**
 
 Lead a discussion on what people observed. Explore all things shown by the video and define why every things are a good or a bad thing. For summarize the facilitator could put all good and bad things in sticky-notes.
 
 ## Activity - What learned in practise (5 minutes per each Attendee) ##
-
+![What](https://upload.wikimedia.org/wikipedia/commons/3/35/BSPC_19_i_Nyborg_Danmark_2009_(4).jpg)
 Ask at your group to present the same last topic trying to use all the tips and things learned in this workshop. A turn, every people in the group (5 minutes maximum) must describe the Idea, why is important and why will be important for the others, with all the new things see in the videos and discussed.
 
 [SLIDE DECK](https://docs.google.com/presentation/d/1TrmeX9YhpumE-2YS41_vcpRva_brVe9Xa96DUTnWf7U/edit?usp=sharing) for the workshop
