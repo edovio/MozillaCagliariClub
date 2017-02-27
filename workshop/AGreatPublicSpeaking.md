@@ -26,7 +26,7 @@ Ask at your group to think individually about one Idea, argument, opinion or oth
 
 ## Activity - Secret to great Public Speaking (25 Minutes) ##
 ![Secret](https://c1.staticflickr.com/2/1118/555287661_0951fd05dc_b.jpg)
-**Watch this Ted Talk: https://www.youtube.com/watch?v=-FOCpMAww28**
+**Watch this Ted Talk: [Chris Anderson Talk](https://www.youtube.com/watch?v=-FOCpMAww28)**
 
 Discussion:
 
@@ -40,7 +40,7 @@ Lead a discussion on what people observed.  Where possible, navigate to a frame 
 
  ## Activity - Good & Bad example in a presentation (15 Minutes) ##
 ![GOOD & BAD](http://maxpixel.freegreatpicture.com/static/photo/1x/Bad-Opposite-Decision-Choose-Good-Choice-Positive-1123013.jpg)
-**Watch this video: https://www.youtube.com/watch?v=S5c1susCPAE&t=50s**
+**Watch this video: [Good and Bad Things](https://www.youtube.com/watch?v=S5c1susCPAE&t=50s)**
 
 Lead a discussion on what people observed. Explore all things shown by the video and define why every things are a good or a bad thing. For summarize the facilitator could put all good and bad things in sticky-notes.
 
@@ -53,9 +53,9 @@ Ask at your group to present the same last topic trying to use all the tips and 
 
 Some other resources Interesting:
 
-https://mozillascience.github.io/open-science-leadership-workshop/facilitator_tips_&_tricks.html
+[Mozilla Science: Facilitator Tips & Tricks](https://mozillascience.github.io/open-science-leadership-workshop/facilitator_tips_&_tricks.html)
 
-https://www.youtube.com/watch?v=wp4ho9raVjA
+[Amy Cuddy Talk: Your body language shapes who you are](https://www.youtube.com/watch?v=wp4ho9raVjA)
 
-https://www.youtube.com/watch?v=Ks-_Mh1QhMc
+[Presentation Skills: Tips & Tricks](https://www.youtube.com/watch?v=Ks-_Mh1QhMc)
 
