@@ -29,19 +29,17 @@ Ask at your group to think individually about one Idea, argument, opinion or oth
 **Watch this Ted Talk: https://www.youtube.com/watch?v=-FOCpMAww28 **
 Discussion:
 Lead a discussion on what people observed.  Where possible, navigate to a frame on the video that supports, or reflects the question being asked.
-1. What was the speaker’s essential message?
-2. What is an Idea?
-3. How much is important the idea for the speaker?
-4. Why is important connect with the attendees?
-
- ## Activity - Good & Bad example in a presentation ##
-(15 Minutes)
+* What was the speaker’s essential message?
+* What is an Idea?
+* How much is important the idea for the speaker?
+* Why is important connect with the attendees? 
+**
+ ## Activity - Good & Bad example in a presentation (15 Minutes) ##
 
 ** Watch this video: https://www.youtube.com/watch?v=S5c1susCPAE&t=50s **
 Lead a discussion on what people observed. Explore all things shown by the video and define why every things are a good or a bad thing. For summarize the facilitator could put all good and bad things in sticky-notes.
 
-## Activity - What learned in practise ##
- ( 5 minutes per each Attendee)
+## Activity - What learned in practise (5 minutes per each Attendee) ##
 
 Ask at your group to present the same last topic trying to use all the tips and things learned in this workshop. A turn, every people in the group (5 minutes maximum) must describe the Idea, why is important and why will be important for the others, with all the new things see in the videos and discussed.
 
